@@ -1,5 +1,5 @@
-def greeting
-  puts "Hey girl"
+def ryans_greeting
+  puts "Hey, girl..."
 end
 
-greeting
+ryans_greeting
