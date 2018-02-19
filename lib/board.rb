@@ -12,4 +12,3 @@ end
 def proposal_response
   puts "yes! I will!"
 end
-
